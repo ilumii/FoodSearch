@@ -3,7 +3,7 @@ The purpose of this program is to search through a csv file and find the 3 close
 
 ![image](https://user-images.githubusercontent.com/42918033/44961083-d8e73480-aed8-11e8-89cd-b7058fb74f8e.png)
 
-To run: 
+# To run: 
 1) enter "make" in command line
 2) enter "./food [cusine] [latitude] [longitude]" lat/long is for current location
   
