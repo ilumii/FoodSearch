@@ -1,5 +1,6 @@
 # FoodSearch
-The purpose of this program is to search through a csv file and find the 3 closest resturants near your current location then displays the resturant name, distance, and address.
+The purpose of this program is to search through a csv file and find the 3 closest resturants near your current location using the  Haversine formula. The program will then display the resturant name, distance, and address.
+  
 
 To run: 
 1) enter "make" in command line
