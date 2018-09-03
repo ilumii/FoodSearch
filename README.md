@@ -1,4 +1,4 @@
-# SearchResturant
+# SearchRestaurant
 The purpose of this program is to search through a csv file and find the 3 closest resturants near your current location using the  Haversine formula. The program will then display the resturant name, distance, and address.
 
 ![image](https://user-images.githubusercontent.com/42918033/44961083-d8e73480-aed8-11e8-89cd-b7058fb74f8e.png)
